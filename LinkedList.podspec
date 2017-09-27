@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-s.name         = "LinkedList"
-  s.version      = "0.0.3"
+s.name         = "FHLinkedList"
+  s.version      = "0.0.4"
   s.summary      = "linkedlist"
   s.homepage     = "https://github.com/GodL/LinkedList"
   s.license      = "MIT"
